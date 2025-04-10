@@ -1,4 +1,4 @@
-<h1>Home Soc w/ live cyber attackers</h1>
+<h1>Home Soc w/ live cyber attacks</h1>
 
 <h2>Description</h2>
 In this project, we are going to create a basic 'home' SOC in the Cloud using an Azure subscription<br />
